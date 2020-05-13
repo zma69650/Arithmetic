@@ -1,2 +1,2 @@
-# Arithmetic
-using python achieve some arithmetic
+# example
+
